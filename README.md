@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Vinicius Santos Vilela — Software Engineer, Backend Java & Spring Boot" src="./assets/banner-dark.svg" width="100%">
-  </picture>
+  <img alt="Vinicius Santos Vilela — Software Engineer, Backend Java & Spring Boot" src="./assets/banner-dark.svg" width="100%">
 </div>
 
 <div align="center">
@@ -67,7 +63,7 @@ public class Vinicius extends SoftwareEngineer {
 
 <table>
   <tr>
-    <td valign="top" width="50%" markdown="1">
+    <td valign="top" width="50%">
 
 <b>Core — Backend</b>
 <br><br>
@@ -79,7 +75,7 @@ public class Vinicius extends SoftwareEngineer {
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=151515" alt="Maven" />
 
   </td>
-    <td valign="top" width="50%" markdown="1">
+    <td valign="top" width="50%">
 
 <b>Data</b>
 <br><br>
@@ -91,7 +87,7 @@ public class Vinicius extends SoftwareEngineer {
   </td>
   </tr>
   <tr>
-    <td valign="top" markdown="1">
+    <td valign="top">
 
 <b>Frontend</b>
 <br><br>
@@ -102,7 +98,7 @@ public class Vinicius extends SoftwareEngineer {
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=151515" alt="CSS3" />
 
   </td>
-    <td valign="top" markdown="1">
+    <td valign="top">
 
 <b>DevOps & Tooling</b>
 <br><br>
@@ -115,7 +111,7 @@ public class Vinicius extends SoftwareEngineer {
   </td>
   </tr>
   <tr>
-    <td valign="top" markdown="1">
+    <td valign="top">
 
 <b>AI & Python</b>
 <br><br>
@@ -125,7 +121,7 @@ public class Vinicius extends SoftwareEngineer {
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=151515" alt="Gemini" />
 
   </td>
-    <td valign="top" markdown="1">
+    <td valign="top">
 
 <b>Microsoft Ecosystem</b>
 <br><br>
@@ -143,25 +139,57 @@ public class Vinicius extends SoftwareEngineer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Vinicius-S-Vilela/caoradar-platform">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-S-Vilela&repo=caoradar-platform&theme=github_dark&hide_border=true&icon_color=3FB950">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-S-Vilela&repo=caoradar-platform&theme=default&hide_border=true&icon_color=3FB950" alt="CãoRadar" />
-    </picture>
-  </a>
-  <a href="https://github.com/Vinicius-S-Vilela/sentinela-precos">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-S-Vilela&repo=sentinela-precos&theme=github_dark&hide_border=true&icon_color=3FB950">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-S-Vilela&repo=sentinela-precos&theme=default&hide_border=true&icon_color=3FB950" alt="Sentinela" />
-    </picture>
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<br>
+<h3 align="center">🐕 CãoRadar</h3>
+<p align="center"><i>Computer vision + multimodal AI to find lost dogs in the city</i></p>
+<p align="center">
+  <a href="https://github.com/Vinicius-S-Vilela/caoradar-platform"><img src="https://img.shields.io/github/stars/Vinicius-S-Vilela/caoradar-platform?style=flat-square&color=3FB950&labelColor=151515&label=stars" alt="Stars" /></a>
+  <a href="https://github.com/Vinicius-S-Vilela/caoradar-platform/forks"><img src="https://img.shields.io/github/forks/Vinicius-S-Vilela/caoradar-platform?style=flat-square&color=3FB950&labelColor=151515&label=forks" alt="Forks" /></a>
+  <img src="https://img.shields.io/github/last-commit/Vinicius-S-Vilela/caoradar-platform?style=flat-square&color=8B949E&labelColor=151515&label=last%20commit" alt="Last commit" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&labelColor=151515" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&labelColor=151515" alt="Spring Boot 4" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&labelColor=151515" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/YOLOv8-00B3B3?style=flat-square&labelColor=151515" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&labelColor=151515" alt="Angular 17" />
+  <img src="https://img.shields.io/badge/PostgreSQL_15-4169E1?style=flat-square&labelColor=151515" alt="PostgreSQL 15" />
+</p>
+<p align="center">
+  <a href="https://github.com/Vinicius-S-Vilela/caoradar-platform"><img src="https://img.shields.io/badge/View_repository-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="Repo" /></a>
+</p>
 
-<details open markdown="1">
-<summary><b>🐕 CãoRadar — AI platform for finding lost dogs</b></summary>
+  </td>
+    <td valign="top" width="50%">
+
+<h3 align="center">🛡️ Sentinela</h3>
+<p align="center"><i>Multi-tenant price monitoring SaaS with Telegram alerts</i></p>
+<p align="center">
+  <a href="https://github.com/Vinicius-S-Vilela/sentinela-precos"><img src="https://img.shields.io/github/stars/Vinicius-S-Vilela/sentinela-precos?style=flat-square&color=3FB950&labelColor=151515&label=stars" alt="Stars" /></a>
+  <a href="https://github.com/Vinicius-S-Vilela/sentinela-precos/forks"><img src="https://img.shields.io/github/forks/Vinicius-S-Vilela/sentinela-precos?style=flat-square&color=3FB950&labelColor=151515&label=forks" alt="Forks" /></a>
+  <img src="https://img.shields.io/github/last-commit/Vinicius-S-Vilela/sentinela-precos?style=flat-square&color=8B949E&labelColor=151515&label=last%20commit" alt="Last commit" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&labelColor=151515" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&labelColor=151515" alt="Spring Boot 3" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&labelColor=151515" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&labelColor=151515" alt="JWT" />
+  <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&labelColor=151515" alt="Angular 17" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=151515" alt="Docker" />
+</p>
+<p align="center">
+  <a href="https://github.com/Vinicius-S-Vilela/sentinela-precos"><img src="https://img.shields.io/badge/View_repository-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="Repo" /></a>
+</p>
+
+  </td>
+  </tr>
+</table>
+
+<details open>
+<summary><b>🐕 CãoRadar — the architecture in detail</b></summary>
 <br>
 
 > Capstone project (USCS). A SaaS platform that reads urban camera feeds, detects dogs with computer vision, classifies their traits with multimodal AI, and matches them against open missing-dog reports with a 0–100% biometric score.
@@ -176,12 +204,10 @@ public class Vinicius extends SoftwareEngineer {
 
 **What made it interesting:** orchestrating three runtimes (JVM, Python, browser) behind one contract, and designing the matching pipeline so an AI score stays auditable instead of being a black box.
 
-<a href="https://github.com/Vinicius-S-Vilela/caoradar-platform"><img src="https://img.shields.io/badge/Read_the_architecture-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="Repo" /></a>
-
 </details>
 
-<details markdown="1">
-<summary><b>🛡️ Sentinela — multi-tenant price monitoring SaaS</b></summary>
+<details>
+<summary><b>🛡️ Sentinela — the architecture in detail</b></summary>
 <br>
 
 > A full-stack SaaS that tracks e-commerce prices and pings users on Telegram when a target is hit. Discontinued as a product, open-sourced as a study case — the architecture is the point.
@@ -196,11 +222,9 @@ public class Vinicius extends SoftwareEngineer {
 
 **What made it interesting:** multi-tenant data isolation done at the persistence layer rather than trusted to the UI, and scrapers built with fallback states so one blocked target never takes the scheduler down.
 
-<a href="https://github.com/Vinicius-S-Vilela/sentinela-precos"><img src="https://img.shields.io/badge/Read_the_case_study-3FB950?style=for-the-badge&logo=github&logoColor=white&labelColor=151515" alt="Repo" /></a>
-
 </details>
 
-<details markdown="1">
+<details>
 <summary><b>📚 More from the lab</b></summary>
 <br>
 
@@ -218,38 +242,12 @@ public class Vinicius extends SoftwareEngineer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vinicius-S-Vilela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&icon_color=3FB950&title_color=3FB950">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-Vilela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&icon_color=3FB950&title_color=2F8132" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-Vilela&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=3FB950">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-Vilela&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=2F8132" alt="Top languages" />
-  </picture>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-Vilela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3FB950&icon_color=3FB950&text_color=8B949E" alt="GitHub stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-Vilela&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3FB950&text_color=8B949E" alt="Top languages" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vinicius-S-Vilela&hide_border=true&theme=github-dark&ring=3FB950&fire=ED8B00&currStreakLabel=3FB950">
-    <img src="https://streak-stats.demolab.com?user=Vinicius-S-Vilela&hide_border=true&theme=default&ring=2F8132&fire=ED8B00&currStreakLabel=2F8132" alt="Contribution streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-S-Vilela&theme=github-compact&hide_border=true&area=true&color=3FB950&line=3FB950&point=ED8B00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-S-Vilela&theme=minimal&hide_border=true&area=true&color=2F8132&line=2F8132&point=ED8B00" alt="Contribution activity graph" width="100%" />
-  </picture>
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/Vinicius-S-Vilela">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-S-Vilela&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Vinicius-S-Vilela&hide_border=true&background=00000000&stroke=30363D&ring=3FB950&fire=ED8B00&currStreakLabel=3FB950&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=6E7681" alt="Contribution streak" />
 </div>
 
 <br>
@@ -257,11 +255,7 @@ public class Vinicius extends SoftwareEngineer {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-S-Vilela/Vinicius-S-Vilela/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-S-Vilela/Vinicius-S-Vilela/output/snake.svg">
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Vinicius-S-Vilela/Vinicius-S-Vilela/output/snake.svg" width="100%">
-  </picture>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Vinicius-S-Vilela/Vinicius-S-Vilela/output/snake-dark.svg" width="100%">
 </div>
 
 <br>
@@ -285,5 +279,20 @@ public class Vinicius extends SoftwareEngineer {
 <div align="center">
   <i>Open to backend engineering opportunities — Java, Spring Boot and everything that has to stay up at 3 a.m.</i>
   <br><br>
-  <img src="https://img.shields.io/badge/-%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22-151515?style=for-the-badge&labelColor=151515&color=3FB950" alt="Quote" />
+  <img src="https://img.shields.io/badge/%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22-151515?style=for-the-badge&labelColor=151515&color=3FB950" alt="Quote" />
 </div>
+
+<!--
+  🏆 TROPHIES — desativado de propósito.
+  O serviço github-profile-trophy.vercel.app está retornando HTTP 402 (limite da
+  conta Vercel do projeto), então o card aparecia quebrado no perfil.
+  Se o serviço voltar, é só apagar estes comentários e a seção volta ao ar.
+
+## 🏆 Trophies
+
+<div align="center">
+  <a href="https://github.com/Vinicius-S-Vilela">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vinicius-S-Vilela&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  </a>
+</div>
+-->
