@@ -1,6 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="120" viewBox="0 0 450 120" fill="none" role="img" aria-label="Vinicius's GitHub Stats">
-  <rect x="0.5" y="0.5" width="449" height="119" rx="8" fill="#00000000" stroke="#30363D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="265" viewBox="0 0 450 265" fill="none" role="img" aria-label="Vinicius's GitHub Stats">
+  <rect x="0.5" y="0.5" width="449" height="264" rx="8" fill="#00000000" stroke="#30363D"/>
   <text x="25" y="34" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#3FB950">Vinicius's GitHub Stats</text>
-  <text x="25" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Generating on the first workflow run…</text>
-  <text x="25" y="94" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6E7681">Actions → Generate Profile Cards → Run workflow</text>
+  <text x="25" y="72" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Total Stars Earned</text>
+  <text x="425" y="72" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">2</text>
+  <text x="25" y="99" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Total Forks</text>
+  <text x="425" y="99" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">1</text>
+  <text x="25" y="126" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Public Repositories</text>
+  <text x="425" y="126" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">9</text>
+  <text x="25" y="153" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Followers</text>
+  <text x="425" y="153" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">2</text>
+  <text x="25" y="180" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Commits (last 12 months)</text>
+  <text x="425" y="180" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">47</text>
+  <text x="25" y="207" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Pull Requests</text>
+  <text x="425" y="207" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">5</text>
+  <text x="25" y="234" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Issues</text>
+  <text x="425" y="234" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#3FB950" text-anchor="end">0</text>
 </svg>

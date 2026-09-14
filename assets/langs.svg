@@ -1,6 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="120" viewBox="0 0 450 120" fill="none" role="img" aria-label="Most Used Languages">
-  <rect x="0.5" y="0.5" width="449" height="119" rx="8" fill="#00000000" stroke="#30363D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="206" viewBox="0 0 450 206" fill="none" role="img" aria-label="Most Used Languages">
+  <rect x="0.5" y="0.5" width="449" height="205" rx="8" fill="#00000000" stroke="#30363D"/>
   <text x="25" y="34" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#3FB950">Most Used Languages</text>
-  <text x="25" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Generating on the first workflow run…</text>
-  <text x="25" y="94" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6E7681">Actions → Generate Profile Cards → Run workflow</text>
+  <clipPath id="b"><rect x="25" y="56" width="400" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#b)">
+  <rect x="25.0" y="56" width="176.8" height="10" fill="#3178C6"/>
+  <rect x="201.8" y="56" width="142.6" height="10" fill="#B07219"/>
+  <rect x="344.4" y="56" width="55.1" height="10" fill="#3572A5"/>
+  <rect x="399.5" y="56" width="15.7" height="10" fill="#E34C26"/>
+  <rect x="415.2" y="56" width="8.9" height="10" fill="#563D7C"/>
+  <rect x="424.1" y="56" width="2.0" height="10" fill="#384D54"/>
+  <rect x="424.8" y="56" width="2.0" height="10" fill="#F1E05A"/>
+  </g>
+  <circle cx="30" cy="91" r="5" fill="#3178C6"/>
+  <text x="43" y="96" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">TypeScript <tspan fill="#6E7681">44.2%</tspan></text>
+  <circle cx="240" cy="91" r="5" fill="#B07219"/>
+  <text x="253" y="96" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">Java <tspan fill="#6E7681">35.6%</tspan></text>
+  <circle cx="30" cy="117" r="5" fill="#3572A5"/>
+  <text x="43" y="122" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">Python <tspan fill="#6E7681">13.8%</tspan></text>
+  <circle cx="240" cy="117" r="5" fill="#E34C26"/>
+  <text x="253" y="122" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">HTML <tspan fill="#6E7681">3.9%</tspan></text>
+  <circle cx="30" cy="143" r="5" fill="#563D7C"/>
+  <text x="43" y="148" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">CSS <tspan fill="#6E7681">2.2%</tspan></text>
+  <circle cx="240" cy="143" r="5" fill="#384D54"/>
+  <text x="253" y="148" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">Dockerfile <tspan fill="#6E7681">0.2%</tspan></text>
+  <circle cx="30" cy="169" r="5" fill="#F1E05A"/>
+  <text x="43" y="174" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#7D8590">JavaScript <tspan fill="#6E7681">0.0%</tspan></text>
 </svg>
