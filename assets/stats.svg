@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="120" viewBox="0 0 450 120" fill="none" role="img" aria-label="Vinicius's GitHub Stats">
+  <rect x="0.5" y="0.5" width="449" height="119" rx="8" fill="#00000000" stroke="#30363D"/>
+  <text x="25" y="34" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#3FB950">Vinicius's GitHub Stats</text>
+  <text x="25" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#7D8590">Generating on the first workflow run…</text>
+  <text x="25" y="94" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6E7681">Actions → Generate Profile Cards → Run workflow</text>
+</svg>

@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Vinicius-S-Vilela">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=720&lines=Designing+scalable+backend+architectures;Spring+Boot+%C2%B7+JPA%2FHibernate+%C2%B7+PostgreSQL;From+database+modeling+to+production+deploy;Computer+Science+%40+USCS" alt="What I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=720&lines=Designing+scalable+backend+architectures;Spring+Boot+%C2%B7+JPA%2FHibernate+%C2%B7+PostgreSQL;From+database+modeling+to+production+deploy;B.Sc.+in+Computer+Science+%E2%80%94+USCS" alt="What I do" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student at USCS** and a software developer focused on **backend engineering in the Java ecosystem**. What drives me is the part of the job that doesn't fit in a tutorial: designing system architecture, modeling databases that stay correct under load, and turning a messy requirement into a clean, resilient API.
+I hold a **B.S. in Computer Science from USCS** and work as a software developer focused on **backend engineering in the Java ecosystem**. What drives me is the part of the job that doesn't fit in a tutorial: designing system architecture, modeling databases that stay correct under load, and turning a messy requirement into a clean, resilient API.
 
 Professionally I work with complex enterprise integrations inside the Microsoft ecosystem — **Power Platform, Microsoft Graph API and Azure AI** — where a good part of the work is engineering around native platform limits with pro-code. This GitHub is the other half: the lab where I build the systems I actually want to design, end to end.
 
@@ -241,13 +241,15 @@ public class Vinicius extends SoftwareEngineer {
 
 ## 📊 GitHub Analytics
 
+> Cards generated daily by a GitHub Action inside this repository — no third-party service, nothing to rate-limit.
+
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-Vilela&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=3FB950&icon_color=3FB950&text_color=8B949E" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-Vilela&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3FB950&text_color=8B949E" alt="Top languages" />
+  <img src="./assets/stats.svg" alt="GitHub stats" />
+  <img src="./assets/langs.svg" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinicius-S-Vilela&hide_border=true&background=00000000&stroke=30363D&ring=3FB950&fire=ED8B00&currStreakLabel=3FB950&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=6E7681" alt="Contribution streak" />
+  <img src="./assets/streak.svg" alt="Contribution streak" />
 </div>
 
 <br>
